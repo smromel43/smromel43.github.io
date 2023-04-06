@@ -393,7 +393,7 @@ section .title::after{
     margin-left: 30px;
 }
 .contact .contact-content .row i{
-    font-size: 20px;
+    font-size: 23px;
     color: crimson;
 }
 
@@ -423,7 +423,7 @@ section .title::after{
     width: 100%;
 }
 .contact .right form .name{
-    margin-right: 30px;
+    margin-right: 120px;
 }
 .contact .right form .email{
     margin-left: 10px;
