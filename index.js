@@ -11,3 +11,13 @@ var typed = new Typed(".typing-2", {
     bsckSpeed: 60,
     loop: true
 });
+
+function fun() {
+    let name= document.getElementById("name").value;
+    let email= document.getElementById("email").value;
+    let subject= document.getElementById("subject").value;
+    let describe= document.getElementById("describe").value;
+
+  
+    alert("Message is sent");
+}
